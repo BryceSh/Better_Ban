@@ -1,0 +1,7 @@
+sqlUsername: username
+sqlPassword: password
+sqlHost: localhost
+sqlPort: 21
+banMessage: "§cYou have been banned from the server!\n\n§7Length: §5%expires% \n§7Reason: §f%reason%\nAppeal at §nhttps://www.google.com/"
+useCustomForeverColor: true
+customForeverColor: §4§l

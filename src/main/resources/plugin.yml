@@ -1,0 +1,4 @@
+name: BetterBan
+version: '${project.version}'
+main: ubiniti.betterbanv2.Betterbanv2
+api-version: 1.19
