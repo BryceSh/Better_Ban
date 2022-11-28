@@ -8,6 +8,6 @@ This plugin includes:
 3. MySQL database support
 4. Custom web portal **_Note - coming soon_**
 
-##How to download:
+## How to download:
 You can download this plugin on spigot or you can download the latest version that we are working on
 here on github by going under the target file
