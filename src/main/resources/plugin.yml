@@ -2,3 +2,11 @@ name: BetterBan
 version: '${project.version}'
 main: ubiniti.betterbanv2.Betterbanv2
 api-version: 1.19
+commands:
+  betterban:
+    description: Open's better ban GUI
+    usage: /<command>
+
+  punish:
+    description: Punish players for being bad
+    usage: /<command> <username>
