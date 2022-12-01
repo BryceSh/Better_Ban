@@ -13,6 +13,10 @@ This plugin includes:
 You can download this plugin on spigot, or you can download the latest version that we are working on
 here on GitHub by going under the target file
 
+#### Notice!
+You will need to install our other plugin Mute+ to use the mute function within the /punish menu. You can download this by clicking this
+link or getting it on GitHub here. It's free!
+
 ### Install web portal:
 To install your web portal, you need a web host that provides **PHP 7.4+** and 
 MySQL support. We recommend hosting your SQL server off your server host and connect it to your website. 
